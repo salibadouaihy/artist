@@ -58,10 +58,10 @@ export default function Home() {
                     <p class="subheading">I used to look at modern paintings, which most people considered ugly, and found that in my eyes, they were beautiful.</p>
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/Arcades.jpg" alt="Painting"/>
+                            <img src="img/arcades.JPG" alt="Painting"/>
                         </div>
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/Arcades2.jpg" alt="painting"/>
+                            <img src="img/Arcades2.JPG" alt="painting"/>
                         </div>
                         <div class="col-md-4 col-sm-4 col-12">
                             <img src="img/Early-Mar-Elias-Monastry.jpg" alt="painting"/>

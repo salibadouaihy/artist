@@ -25,18 +25,18 @@ export default function Footer() {
                             <h2 class="footerTitle">Pages</h2>
                             <ul>
                                 <li>
-                                    <Link href="/en/about">
+                                    <Link href="/">
                                         <a>HOME
                                         </a>
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href="/en/mars">
+                                    <Link href="/en/about">
                                         <a>BIOGRAPHY</a>
                                     </Link>
                                 </li>
                                 <li>
-                                    <Link href="/en/airbunker">
+                                    <Link href="/en/designArenas">
                                         <a>PAINTINGS</a>
                                     </Link>
                                 </li>

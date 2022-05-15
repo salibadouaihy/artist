@@ -105,7 +105,7 @@ export default function contact() {
                                 <img src="/img/Ehden-Mar-Gerges.jpg"/>
                             </div>
                             <div class="arena_img_box">
-                                <img src="/img/Arcades.jpg"/>
+                                <img src="/img/arcades.jpg"/>
                             </div>
                             <div class="arena_img_box">
                                 <img src="/img/Arcades2.jpg"/>

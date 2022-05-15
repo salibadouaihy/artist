@@ -45,7 +45,7 @@ export default function about() {
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5 col-sm-5 col-12">
-                            <img src="../img/b3.JPG" alt=""/>
+                            <img src="../img/b3.jpg" alt=""/>
                         </div>
                         <div class="col-md-7 col-sm-7 col-12">
                             <div class="subheading">
@@ -95,7 +95,7 @@ export default function about() {
                 <div class="container">
                     <div class="row">
                         <div class="col-md-5 col-sm-5 col-12">
-                            <img src="../img/profilepic.JPEG" alt=""/>
+                            <img src="../img/profilepic.jpeg" alt=""/>
                         </div>
                         <div class="col-md-7 col-sm-7 col-12">
                             <div class="subheading">
@@ -125,7 +125,7 @@ export default function about() {
                             </p>
                         </div>
                         <div class="col-md-6 col-sm-6 col-12">
-                            <img src="/img/black-white.JPG" />
+                            <img src="/img/black-white.jpg" />
                         </div>
                     </div>
                 </div>
@@ -135,7 +135,7 @@ export default function about() {
                     <div class="row">
                         <div class="col-md-5 col-sm-5 col-12">
                             <br/><br/>
-                            <img src="../img/b4.JPG" alt=""/>
+                            <img src="../img/b4.jpg" alt=""/>
                         </div>
                         <div class="col-md-7 col-sm-7 col-12">
                             <div class="subheading">
@@ -165,7 +165,7 @@ export default function about() {
 
                         </div>
                         <div class="col-md-5 col-sm-5 col-12">
-                            <br/><br/><br/><br/><img src="../img/b5.JPG" alt=""/>
+                            <br/><br/><br/><br/><img src="../img/b5.jpg" alt=""/>
                         </div>
                     </div>
                 </div>
@@ -175,7 +175,7 @@ export default function about() {
                     <div class="row">
                         <div class="col-md-5 col-sm-5 col-12">
                             <br/><br/>
-                            <img src="../img/b2.JPG" alt=""/>
+                            <img src="../img/b2.jpg" alt=""/>
                         </div>
                         <div class="col-md-7 col-sm-7 col-12">
                             <div class="subheading">
@@ -206,7 +206,7 @@ export default function about() {
 
                         </div>
                         <div class="col-md-5 col-sm-5 col-12">
-                            <img src="../img/painting.JPG" alt=""/>
+                            <img src="../img/painting.jpg" alt=""/>
                         </div>
                     </div>
                 </div>
