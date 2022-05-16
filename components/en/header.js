@@ -23,7 +23,7 @@ export default function header() {
                     <ul class="nav navbar-nav">
 
                         <li>
-                            <Link href="artist-kranti99.vercel.app">
+                            <Link href="https://artist-kranti99.vercel.app/">
                                 <a title="home">Home</a>
                             </Link>
                         </li>
