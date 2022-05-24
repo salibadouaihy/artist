@@ -86,9 +86,7 @@ export default function Home() {
                             
                             <h2 class="mars_section_title">
                                 <span class="mars_color">SALIBA DOUAIHY</span><br/> <small style={{color:'white'}}>ARTIST / PAINTER (1915 / 1994)</small></h2>
-                            <p class="secDescription">
-                            Included in the NYU Grey Art Gallery’s exhibition Taking Shape: Abstraction from the Arab World, 1950s-1980s (on view January 14-April 4, 2020) are three paintings by Saliba Douaihy (1915-1994), a leading 20th-century painter of Lebanon. 
-                            </p><p class="secDescription">Born in 1915 in a mountainous town in northern Lebanon, Douaihy was first exposed to painting and art through the Maronite churches in his hometown. Due to his apprenticeship with Habib Srour at the age of 14, his style was initially realistic and figurative. 
+                            <p class="secDescription">Born in 1915 in a mountainous town in northern Lebanon, Douaihy was first exposed to painting and art through the Maronite churches in his hometown. Due to his apprenticeship with Habib Srour at the age of 14, his style was initially realistic and figurative. 
                             
                             <p class="secDescription">Srour was a portrait painter of religious, social, and political Arab figures in Lebanon and taught Douaihy the techniques of drawing and painting. 
                             Douaihy later assisted Srour in large church murals.</p>

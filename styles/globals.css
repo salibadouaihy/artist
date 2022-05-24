@@ -547,9 +547,9 @@ section {
 
 /* hero banner  */
 .heroBanner {
-  background: url("/img/backfull.png") top center no-repeat;
+  background: url("/img/Beiteddine-Palace.jpg") center center no-repeat;
   background-size: cover;
-  background-color: #fff;
+  background-color: #fa4238;
   background-attachment: fixed;
   padding: 8rem 0 14rem;
 }
@@ -637,7 +637,7 @@ section {
   text-align: center;
 }
 .airBunker .subheading {
-  text-transform: capitalize;
+  text-transform: initial;
   margin-bottom: 60px;
   text-align:left
 }
@@ -1820,7 +1820,7 @@ margin-bottom:15px;
   max-width:220px
 }
 .text-banner{
-  background: rgba(0,0,0,0.4);
+  background: rgba(0,0,0,0.8);
   padding: 30px;
   border-radius:5px;
   box-shadow: rgba(0, 0, 0, 0.32) 0.75rem 0.85rem 1.75rem 0rem;

@@ -8,7 +8,7 @@ export default function Footer() {
                     <div class="row">
                         <div class="col-md-5 col-sm-12">
                             <div class="footerLogo">
-                                <Link href="/en">
+                                <Link href="/">
                                     <a>
                                         <img src="/img/logo.png" alt="logo-lasrertag"/>
                                     </a>
@@ -26,18 +26,18 @@ export default function Footer() {
                             <ul>
                                 <li>
                                     <Link href="/">
-                                        <a>HOME
+                                        <a>home
                                         </a>
                                     </Link>
                                 </li>
                                 <li>
                                     <Link href="/en/about">
-                                        <a>BIOGRAPHY</a>
+                                        <a>Biography</a>
                                     </Link>
                                 </li>
                                 <li>
                                     <Link href="/en/designArenas">
-                                        <a>PAINTINGS</a>
+                                        <a>Paintings</a>
                                     </Link>
                                 </li>
                                 <li>

@@ -146,13 +146,13 @@ export default function contact() {
                     <p class="secDescription">We are ready to connect with you!</p>
                     <ul class="socialIcons">
                         <li>
-                            <a href="https://www.facebook.com/gulf.lasertag/" target="_blank"><FaFacebookF/></a>
+                            <a href="#" target="_blank"><FaFacebookF/></a>
                         </li>
                         <li>
-                            <a href="https://www.instagram.com/gulflasertag/" target="_blank"><RiInstagramFill/></a>
+                            <a href="#" target="_blank"><RiInstagramFill/></a>
                         </li>
                         <li>
-                            <a href="https://www.youtube.com/channel/UCvKscjsK_AVhpQyiRZrezVg" target="_blank"><FaYoutube/></a>
+                            <a href="#" target="_blank"><FaYoutube/></a>
                         </li>
 
 

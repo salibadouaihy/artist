@@ -12,7 +12,6 @@ class MyDocument extends Document {
         return (
             <Html>
                 <Head lang="en">
-                    <title>Gulf LaserTag</title>
                     <meta name="description" content="An ambitious design that inspires action."/>
 
                     <link rel="shortcut icon" href="img/favicon.png" type="img/x-icon"/>
