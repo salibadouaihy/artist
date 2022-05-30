@@ -26,7 +26,7 @@ export default function Footer() {
                             <ul>
                                 <li>
                                     <Link href="/">
-                                        <a>home
+                                        <a>Home
                                         </a>
                                     </Link>
                                 </li>
