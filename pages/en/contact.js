@@ -57,7 +57,7 @@ export default function contact() {
                     <div class="row">
                         <div class="col-md-12 col-sm-12 col-12">
 
-                            <form class="contactForm" name="contactForm" method="POST" action="https://formsubmit.co/mindwasher99@gmail.com">
+                            {/* <form class="contactForm" name="contactForm" method="POST" action="https://formsubmit.co/mindwasher99@gmail.com">
 
                                 <div class="formGroup">
                                     <label>Full Name</label>
@@ -82,7 +82,10 @@ export default function contact() {
                                     <textarea name="message" class="inputField form-control" required></textarea>
                                 </div>
                                 <input type='submit' class="btn btn-primary btnMain"/>
-                            </form>
+                            </form> */}
+
+                            <h2><a href="mailto:salibadouaihy@hotmail.com">salibadouaihy@hotmail.com</a></h2>
+                            <a class="btn btn-primary btnMain" href="mailto:salibadouaihy@hotmail.com">Email Now</a>
                             <div id="formMsg"></div>
                         </div>
                     </div>
@@ -93,19 +96,17 @@ export default function contact() {
             <section class="contactInfo">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-4">
+                        <div class="col-md-6">
                             <div class="icon"><FaEnvelope/></div>
                             <h3>
                                 Have Any Questions? ​
                             </h3>
                             <p>
-                                <b>Website Owner</b><br/>
-                                Enzo Molinari
                                 <br/>salibadouaihy@hotmail.com
                             </p>
                             
                         </div>
-                        <div class="col-md-4">
+                        {/* <div class="col-md-4">
                             <div class="icon"><FaPhone/></div>
                             <h3>
                                 Call us or WhatsApp
@@ -119,8 +120,8 @@ export default function contact() {
                                 <b>Estonia:</b>
                                 <br/>+1212212
                             </p>
-                        </div>
-                        <div class="col-md-4">
+                        </div> */}
+                        <div class="col-md-6">
                             <div class="icon"><FaLocationArrow/></div>
                             <h3>Location</h3>
                             <p>Lebanon</p>
@@ -130,7 +131,7 @@ export default function contact() {
             </section>
 
 
-            <section class="preFooter"
+            {/* <section class="preFooter"
                 style={
                     {backgroundImage: "url('../img/sky.jpeg')"}
             }>
@@ -161,7 +162,7 @@ export default function contact() {
 
 
                 <div class="background-overlay"></div>
-            </section>
+            </section> */}
         </Layout>
     )
 }

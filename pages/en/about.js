@@ -212,7 +212,7 @@ export default function about() {
                 </div>
             </section>
 
-            <section class="preFooter"
+            {/* <section class="preFooter"
                 style={
                     {backgroundImage: "url('../img/sky.jpeg')"}
             }>
@@ -244,7 +244,7 @@ export default function about() {
                 </div>
                 <div class="background-overlay"></div>
 
-            </section>
+            </section> */}
         </Layout>
     )
 }
