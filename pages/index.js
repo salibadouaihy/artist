@@ -22,7 +22,7 @@ export default function Home() {
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-12">
                             <div class="imageLeft">
-                                <img src="img/new/portrait.jpg" /> 
+                                <img src="img/new/Portrait.jpg" /> 
                             </div>
                             </div>
                         <div class="col-md-6 col-sm-6 col-12">
