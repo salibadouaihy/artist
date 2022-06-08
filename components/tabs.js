@@ -40,61 +40,61 @@ function Tabs() {
             <SRLWrapper>
                 <div class="gallery_group">
                     <div class="arena_img_box">
-                        <img src="/img/new/early/20754113_1_x.jpg"/>
+                        <img src="/img/new/earlyPeriod/20754113_1_x.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img/new/early/Al Hamra - Grenada 33X28.jpg"/>
+                        <img src="/img/new/earlyPeriod/Al Hamra - Grenada 33X28.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img/new/early/Beiteddine Palace.jpg"/>
+                        <img src="/img/new/earlyPeriod/Beiteddine Palace.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img/new/early/Conversation.jpg"/>
+                        <img src="/img/new/earlyPeriod/Conversation.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Deir Kalaa, Beit Merry.jpg"/>
+                        <img src="/img//new/earlyPeriod/Deir Kalaa, Beit Merry.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Douaihy 36X51.jpg"/>
+                        <img src="/img//new/earlyPeriod/Douaihy 36X51.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Early Mar Elias Monastry.jpg"/>
+                        <img src="/img//new/earlyPeriod/Early Mar Elias Monastry.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Ehden - Mar Gerges 30X40.jpg"/>
+                        <img src="/img//new/earlyPeriod/Ehden - Mar Gerges 30X40.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Ehden - Mar Gerges.jpg"/>
+                        <img src="/img//new/earlyPeriod/Ehden - Mar Gerges.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Hauran Druze Women.jpg"/>
+                        <img src="/img//new/earlyPeriod/Hauran Druze Women.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Jounieh Bay.jpg"/>
+                        <img src="/img//new/earlyPeriod/Jounieh Bay.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Lebanese House in Ehden.jpg"/>
+                        <img src="/img//new/earlyPeriod/Lebanese House in Ehden.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/Rechmaya Village.jpg"/>
+                        <img src="/img//new/earlyPeriod/Rechmaya Village.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/S Douaihy, Oil on Canvas, 60x80cm B.jpg"/>
+                        <img src="/img//new/earlyPeriod/S Douaihy, Oil on Canvas, 60x80cm B.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img//new/early/S Douaihy, Oil on Canvas, 60x80cm.jpg"/>
+                        <img src="/img//new/earlyPeriod/S Douaihy, Oil on Canvas, 60x80cm.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img/new/early/SD.jpg"/>
+                        <img src="/img/new/earlyPeriod/SD.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img/new/early/Sulaymania Mosque 1948 49X39.jpg"/>
+                        <img src="/img/new/earlyPeriod/Sulaymania Mosque 1948 49X39.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img/new/early/View of Mount Hermon.jpg"/>
+                        <img src="/img/new/earlyPeriod/View of Mount Hermon.jpg"/>
                     </div>
                     <div class="arena_img_box">
-                        <img src="/img/new/early/Water Mill in Akkar Region.jpg"/>
+                        <img src="/img/new/earlyPeriod/Water Mill in Akkar Region.jpg"/>
                     </div>
                     
                 </div>

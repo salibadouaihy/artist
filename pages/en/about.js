@@ -176,16 +176,13 @@ export default function about() {
                     <div class="row">
                         <div class="col-md-5 col-sm-5 col-12">
                             <br/><br/>
-                            <img src="../img/sds.jpg" alt=""/>
+                            <img src="../img/new/grotto.jpg" alt=""/>
                         </div>
                         <div class="col-md-7 col-sm-7 col-12">
                             <div class="subheading">
-                                <br/><br/>
-                                <p class="secDescription">The canvases of the late 1960s until his death in 1994 were, therefore, the result of this concentrated experimentation and search for absolute simplification of both form and colour. </p>
-                                <p>But at the same time Douaihy sought “flatness”, he saw the concept of “infinite space” as the basis of, and ultimate source for, his compositions. </p>
+                                <p class="secDescription">The canvases of the late 1960s until his death in 1994 were, therefore, the result of this concentrated experimentation and search for absolute simplification of both form and colour. But at the same time Douaihy sought “flatness”, he saw the concept of “infinite space” as the basis of, and ultimate source for, his compositions. </p>
                                 <p>The paintings from those years and succeeding ones are of a type of hard-edge “minimal” style that evolves a complex system of meticulously articulated interrelationships: shape large and small, angular and curved, colours brilliant and subdued, primary and secondary, harmonizing and contrasting; angles acute and obtuse.</p>
-                                <p>It also produces a seemingly infinite range of variations within the strict parameters the artist has set for himself. But one constant is the interaction between the dominant asymmetrical central planes and the slender shafts of colours that intersect or border them.</p>
-                                <p>We can confidently say that minimal art has not been for Douaihy, as it has for so many others, a passing phase.</p>
+                                <p>It also produces a seemingly infinite range of variations within the strict parameters the artist has set for himself. But one constant is the interaction between the dominant asymmetrical central planes and the slender shafts of colours that intersect or border them. We can confidently say that minimal art has not been for Douaihy, as it has for so many others, a passing phase.</p>
                             </div>
                         </div>
                     </div>
