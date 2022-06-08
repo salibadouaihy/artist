@@ -35,80 +35,100 @@ function Tabs() {
         <div
           className={toggleState === 1 ? "content  active-content" : "content"}
         >
-          <h2>Early period</h2>
-          <hr />
-          <SRLWrapper>
-                        <div class="gallery_group">
-                            <div class="arena_img_box">
-                                <img src="/img/Conversation.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Farmer.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Hauran-Druze-Women.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Beiteddine-Palace.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Douaihy3.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Still-Life.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Lebanese-Village.jpg"/>
-                            </div>
-
-                            <div class="arena_img_box">
-                                <img src="/img/1.jpg"/>
-                            </div>
-                        </div>
-                    </SRLWrapper>
+            <h2>Early period</h2>
+             <hr />
+            <SRLWrapper>
+                <div class="gallery_group">
+                    <div class="arena_img_box">
+                        <img src="/img/new/early/20754113_1_x.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/early/Al Hamra - Grenada 33X28.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/early/Beiteddine Palace.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/early/Conversation.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Deir Kalaa, Beit Merry.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Douaihy 36X51.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Early Mar Elias Monastry.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Ehden - Mar Gerges 30X40.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Ehden - Mar Gerges.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Hauran Druze Women.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Jounieh Bay.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Lebanese House in Ehden.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/Rechmaya Village.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/S Douaihy, Oil on Canvas, 60x80cm B.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img//new/early/S Douaihy, Oil on Canvas, 60x80cm.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/early/SD.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/early/Sulaymania Mosque 1948 49X39.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/early/View of Mount Hermon.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/early/Water Mill in Akkar Region.jpg"/>
+                    </div>
+                    
+                </div>
+            </SRLWrapper>
         </div>
 
-        <div
-          className={toggleState === 2 ? "content  active-content" : "content"}
-        >
-          <h2>Intermediate period</h2>
-          <hr />
-          <SRLWrapper>
-                        <div class="gallery_group">
-                            
-                            <div class="arena_img_box">
-                                <img src="/img/2.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/3.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/4.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/5.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/6.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/7.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/8.jpg"/>
-                            </div>
-
-                           
-                            <div class="arena_img_box">
-                                <img src="/img/9.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/10.jpg"/>
-                            </div>
-                           
-                            
-                        </div>
-                    </SRLWrapper>
+        <div className={toggleState === 2 ? "content  active-content" : "content"}>
+            <h2>Intermediate period</h2>
+            <hr />
+            <SRLWrapper>
+                <div class="gallery_group">
+                    <div class="arena_img_box">
+                        <img src="/img/new/Intermediate/Douaihy 71cmX106.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/Intermediate/Grotto.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/Intermediate/hp03.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/Intermediate/Lebanese Village 1950 40X61.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/Intermediate/Monastery.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/Intermediate/Sea _ Mountains 69X43.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/Intermediate/Still Life 30X40.jpg"/>
+                    </div>
+                </div>
+            </SRLWrapper>
         </div>
 
         <div
@@ -116,47 +136,28 @@ function Tabs() {
         >
           <h2>Hard Edge Period</h2>
           <hr />
-          <SRLWrapper>
-                        <div class="gallery_group">
-                            <div class="arena_img_box">
-                                <img src="/img/11.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/12.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/13.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Ehden-Mar-Gerges.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/arcades.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Arcades2.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Early-Mar-Elias-Monastry.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Carthage.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Rechmaya-Village.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Sulaymania-Mosque.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Water-Mill-in-Akkar-Region.jpg"/>
-                            </div>
-                            <div class="arena_img_box">
-                                <img src="/img/Sea-Mountains.jpg"/>
-                            </div>
-                            
-                        </div>
-                    </SRLWrapper>
+            <SRLWrapper>
+                <div class="gallery_group">  
+                    <div class="arena_img_box">
+                        <img src="/img/new/hardEdge/4.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/hardEdge/Carthage - 1965.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/hardEdge/Douaihy 111x92cm.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/hardEdge/Green.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/hardEdge/No Title 165X127.jpg"/>
+                    </div>
+                    <div class="arena_img_box">
+                        <img src="/img/new/hardEdge/Purple.jpg"/>
+                    </div>
+                </div>
+            </SRLWrapper>
         </div>
       </div>
     </div>

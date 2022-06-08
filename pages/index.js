@@ -22,7 +22,7 @@ export default function Home() {
                     <div class="row">
                         <div class="col-md-6 col-sm-6 col-12">
                             <div class="imageLeft">
-                                <img src="img/painting.jpg" /> 
+                                <img src="img/new/portrait.jpg" /> 
                             </div>
                             </div>
                         <div class="col-md-6 col-sm-6 col-12">
@@ -59,18 +59,18 @@ export default function Home() {
                     <p class="subheading">I used to look at modern paintings, which most people considered ugly, and found that in my eyes, they were beautiful.</p>
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-12">
+                            <img src="img/new/3.jpg" alt="painting"/>
+                        </div>
+                        <div class="col-md-4 col-sm-4 col-12">
                             <img src="img/arcades.jpg" alt="Painting"/>
                         </div>
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/Arcades2.jpg" alt="painting"/>
-                        </div>
-                        <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/Early-Mar-Elias-Monastry.jpg" alt="painting"/>
+                            <img src="img/new/2.jpg" alt="painting"/>
                         </div>
                     </div>
 
                     <Link href="/en/designArenas">
-                        <a class="btn btn-primary btnMain">Read More</a>
+                        <a class="btn btn-primary btnMain">View More</a>
                     </Link>
                 </div>
             </section>
@@ -98,7 +98,7 @@ export default function Home() {
                             <br/>
                             <br/>
                             <Link href="/en/about">
-                                <a class="btn btn-primary btnMain">View More</a>
+                                <a class="btn btn-primary btnMain">Read More</a>
                             </Link>
                         </div>
                         <div class="col-md-6 col-sm-6 col-12">

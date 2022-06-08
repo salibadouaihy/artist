@@ -13,7 +13,7 @@ export default function header() {
                     </button>
                     <Link href="/">
                         <a class="navbar-brand">
-                            <img src="/img/logo2.png" alt="logo"/>
+                            <img src="/img/logo-center.png" alt="logo"/>
                         </a>
                     </Link>
                 </div>

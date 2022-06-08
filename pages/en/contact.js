@@ -21,7 +21,7 @@ export default function contact() {
         <Layout>
             <section class="heroBanner aboutHeroBanner"
                 style={
-                    {backgroundImage: "url('/img/droneview.jpg')"}
+                    {backgroundImage: "url('/img/new/3.jpg')"}
             }>
                 <div class="background-overlay"></div>
 
@@ -96,13 +96,13 @@ export default function contact() {
             <section class="contactInfo">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-md-12">
                             <div class="icon"><FaEnvelope/></div>
                             <h3>
                                 Have Any Questions? ​
                             </h3>
                             <p>
-                                <br/>salibadouaihy@hotmail.com
+                                <br/><a href="mailto:salibadouaihy@hotmail.com">salibadouaihy@hotmail.com</a>
                             </p>
                             
                         </div>
@@ -121,11 +121,7 @@ export default function contact() {
                                 <br/>+1212212
                             </p>
                         </div> */}
-                        <div class="col-md-6">
-                            <div class="icon"><FaLocationArrow/></div>
-                            <h3>Location</h3>
-                            <p>Lebanon</p>
-                        </div>
+
                     </div>
                 </div>
             </section>

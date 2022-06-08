@@ -374,7 +374,7 @@ h6,
 }
 .navbar-brand img {
   max-width: 230px;
-  padding: 5px 15px;
+  padding: 8px 15px 0;
   width: 100%;
 }
 .navbar {
@@ -547,7 +547,7 @@ section {
 
 /* hero banner  */
 .heroBanner {
-  background: url("/img/Beiteddine-Palace.jpg") center center no-repeat;
+  background: url("/img/new/background.jpg") center center no-repeat;
   background-size: cover;
   background-color: #fa4238;
   background-attachment: fixed;
@@ -1791,7 +1791,7 @@ margin-bottom:15px;
     margin:30px auto;
   }
   .heroBanner h2{
-    font-size: 45px;
+    font-size: 40px;
   }
   .sectionHeading{
     font-size: 28px;
