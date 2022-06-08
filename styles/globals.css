@@ -547,7 +547,7 @@ section {
 
 /* hero banner  */
 .heroBanner {
-  background: url("/img/new/background.jpg") center center no-repeat;
+  background: url("/img/new/Background.jpg") center center no-repeat;
   background-size: cover;
   background-color: #fa4238;
   background-attachment: fixed;
