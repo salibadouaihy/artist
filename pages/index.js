@@ -63,10 +63,10 @@ export default function Home() {
                         </div>
                        
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/new/2.jpg" alt="painting" style={{height: "380px", objectFit: "cover"}}/>
+                            <img src="img/new/2.jpg" alt="Painting Second" style={{height: "380px", objectFit: "cover"}}/>
                         </div>
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/new/3.jpg" alt="painting" style={{height: "480px", objectFit: "cover"}}/>
+                            <img src="img/new/3.jpg" alt="Painting Third" style={{height: "480px", objectFit: "cover"}}/>
                         </div>
                     </div>
 
