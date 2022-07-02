@@ -59,7 +59,7 @@ export default function Home() {
                     <p class="subheading">"I used to look at modern paintings, which most people considered ugly, and found that in my eyes, they were beautiful."</p>
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-12">
-                            <Image src={img/new/earlyPeriod/Early Mar Elias Monastry.jpg} alt="Painting I"/>
+                            <Image src={img/new/earlyPeriod/Early%20Mar%20Elias%20Monastry.jpg} alt="Painting I"/>
                         </div>
                        
                         <div class="col-md-4 col-sm-4 col-12">
