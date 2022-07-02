@@ -59,14 +59,14 @@ export default function Home() {
                     <p class="subheading">"I used to look at modern paintings, which most people considered ugly, and found that in my eyes, they were beautiful."</p>
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-12">
-                            <Image src={img/new/earlyPeriod/Early Mar Elias Monastry.jpg} alt="Painting First"/>
+                            <Image src={img/new/earlyPeriod/Early Mar Elias Monastry.jpg} alt="Painting I"/>
                         </div>
                        
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/new/2.jpg" alt="Painting Second" style={{height: "380px", objectFit: "cover"}}/>
+                            <img src="img/new/2.jpg" alt="Painting II" style={{height: "380px", objectFit: "cover"}}/>
                         </div>
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/new/3.jpg" alt="Painting Third" style={{height: "480px", objectFit: "cover"}}/>
+                            <img src="img/new/3.jpg" alt="Painting III" style={{height: "480px", objectFit: "cover"}}/>
                         </div>
                     </div>
 
