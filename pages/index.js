@@ -56,16 +56,16 @@ export default function Home() {
 
                 <div class="container">
                     <h2 class="sectionHeading">Paintings</h2>
-                    <p class="subheading">I used to look at modern paintings, which most people considered ugly, and found that in my eyes, they were beautiful.</p>
+                    <p class="subheading">"I used to look at modern paintings, which most people considered ugly, and found that in my eyes, they were beautiful."</p>
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/new/3.jpg" alt="painting"/>
+                            <img src="img/new/earlyPeriod/Early%20Mar%20Elias%20Monastry.jpg" alt="Painting I" />
                         </div>
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/arcades.jpg" alt="Painting"/>
+                            <img src="img/home-img2.jpg" alt="Painting II" />
                         </div>
                         <div class="col-md-4 col-sm-4 col-12">
-                            <img src="img/new/2.jpg" alt="painting"/>
+                            <img src="img/new/3.jpg" alt="Painting III" style={{height: "480px", objectFit: "cover"}} />
                         </div>
                     </div>
 
