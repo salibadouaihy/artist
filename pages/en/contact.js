@@ -56,34 +56,6 @@ export default function contact() {
                 <div class="container">
                     <div class="row">
                         <div class="col-md-12 col-sm-12 col-12">
-
-                            <form class="contactForm" name="contactForm" method="POST" action="https://formsubmit.co/mindwasher99@gmail.com">
-
-                                <div class="formGroup">
-                                    <label>Full Name</label>
-                                    <input required name="fullName" class="inputField form-control"/>
-                                </div>
-
-                                <div class="formGroup">
-                                    <label>
-                                        Your Email
-                                    </label>
-                                    <input required type='email' name="email" class="inputField form-control"/>
-                                </div>
-                                <div class="formGroup">
-                                    <label>
-                                        Phone Number
-                                    </label>
-                                    <input required type='number' name="phone" class="inputField form-control"/>
-                                </div>
-
-                                <div class="formGroup">
-                                    <label>Your Message</label>
-                                    <textarea name="message" class="inputField form-control" required></textarea>
-                                </div>
-                                <input type='submit' class="btn btn-primary btnMain"/>
-                            </form>
-
                             <h2><a href="mailto:salibadouaihy@hotmail.com">salibadouaihy@hotmail.com</a></h2>
                             <a class="btn btn-primary btnMain" href="mailto:salibadouaihy@hotmail.com">Email Now</a>
                             <div id="formMsg"></div>
